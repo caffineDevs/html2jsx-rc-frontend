@@ -7,7 +7,7 @@ import boltIcon from "./bolt.svg";
 function App() {
   const convertHTMLtoJSX = () => {
     const html = document.getElementById("htmlID").value;
-    axios.post("http://localhost:8080/convert", { html: html }).then((res) => {
+    axios.post("https://html2jsx-node.herokuapp.com/convert", { html: html }).then((res) => {
       const output = document.getElementById("outputID");
       output.value = res.data.jsx;
     });
