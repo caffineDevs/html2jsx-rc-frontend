@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/html2jsx-rc-frontend/static/css/main.b4b2f6ea.chunk.css",
+    "main.js": "/html2jsx-rc-frontend/static/js/main.70655983.chunk.js",
+    "main.js.map": "/html2jsx-rc-frontend/static/js/main.70655983.chunk.js.map",
+    "runtime-main.js": "/html2jsx-rc-frontend/static/js/runtime-main.ab4323ba.js",
+    "runtime-main.js.map": "/html2jsx-rc-frontend/static/js/runtime-main.ab4323ba.js.map",
+    "static/js/2.34ca3844.chunk.js": "/html2jsx-rc-frontend/static/js/2.34ca3844.chunk.js",
+    "static/js/2.34ca3844.chunk.js.map": "/html2jsx-rc-frontend/static/js/2.34ca3844.chunk.js.map",
+    "static/js/3.497177eb.chunk.js": "/html2jsx-rc-frontend/static/js/3.497177eb.chunk.js",
+    "static/js/3.497177eb.chunk.js.map": "/html2jsx-rc-frontend/static/js/3.497177eb.chunk.js.map",
+    "index.html": "/html2jsx-rc-frontend/index.html",
+    "static/css/main.b4b2f6ea.chunk.css.map": "/html2jsx-rc-frontend/static/css/main.b4b2f6ea.chunk.css.map",
+    "static/js/2.34ca3844.chunk.js.LICENSE.txt": "/html2jsx-rc-frontend/static/js/2.34ca3844.chunk.js.LICENSE.txt",
+    "static/media/bolt.95aacfce.svg": "/html2jsx-rc-frontend/static/media/bolt.95aacfce.svg",
+    "static/media/copy.eb91ca11.svg": "/html2jsx-rc-frontend/static/media/copy.eb91ca11.svg",
+    "static/media/logo.6ce24c58.svg": "/html2jsx-rc-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab4323ba.js",
+    "static/js/2.34ca3844.chunk.js",
+    "static/css/main.b4b2f6ea.chunk.css",
+    "static/js/main.70655983.chunk.js"
+  ]
+}
